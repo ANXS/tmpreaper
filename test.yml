@@ -4,4 +4,4 @@
   tasks:
     - include: 'tasks/main.yml'
   handlers:
-    - include: "handlers/main.yml"
+    - include: 'handlers/main.yml'
