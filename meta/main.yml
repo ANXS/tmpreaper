@@ -1,0 +1,16 @@
+# file: tmpreaper/meta/main.yml
+
+galaxy_info:
+  author: pjan vandaele
+  description: Install tmpreaper and set its cron job
+  min_ansible_version: 1.3
+  license: MIT
+  platforms:
+  - name: Ubuntu
+    versions:
+    - all
+  categories:
+  - system
+
+dependencies:
+  - Ansibles.cron
