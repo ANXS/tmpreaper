@@ -1,6 +1,7 @@
 ## Ansibles - tmpreaper [![Build Status](https://travis-ci.org/Ansibles/tmpreaper.png)](https://travis-ci.org/Ansibles/tmpreaper)
 
-Set/Update the hostname
+Ansible role for tmpreaper.
+
 
 #### Variables
 
@@ -14,9 +15,11 @@ tmpreaper_cron_hour: 2
 tmpreaper_cron_minute: 15
 ```
 
+
 #### License
 
 Licensed under the MIT License. See the LICENSE file for details.
+
 
 #### Feedback, bug-reports, requests, ...
 
