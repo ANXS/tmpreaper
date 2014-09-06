@@ -1,4 +1,4 @@
-## Ansibles - tmpreaper [![Build Status](https://travis-ci.org/Ansibles/tmpreaper.png)](https://travis-ci.org/Ansibles/tmpreaper)
+## ANXS - tmpreaper [![Build Status](https://travis-ci.org/ANXS/tmpreaper.png)](https://travis-ci.org/ANXS/tmpreaper)
 
 Ansible role which installs and configures tmpreaper.
 
@@ -28,4 +28,4 @@ Licensed under the MIT License. See the LICENSE file for details.
 
 #### Feedback, bug-reports, requests, ...
 
-Are [welcome](https://github.com/ansibles/tmpreaper/issues)!
+Are [welcome](https://github.com/ANXS/tmpreaper/issues)!

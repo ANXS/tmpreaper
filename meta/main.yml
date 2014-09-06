@@ -2,7 +2,7 @@
 
 galaxy_info:
   author: pjan vandaele
-  company: Ansibles
+  company: ANXS
   description: "Installs and configures tmpreaper, and sets it's cron job."
   min_ansible_version: 1.4
   license: MIT
@@ -15,4 +15,4 @@ galaxy_info:
   - monitoring
 
 dependencies:
-  - Ansibles.cron
+  - ANXS.cron
