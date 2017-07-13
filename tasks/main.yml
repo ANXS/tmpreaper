@@ -10,12 +10,3 @@
     owner: root
     group: root
     mode: 0644
-
-- name: Tmpreaper | Set the tmpreaper cron
-  cron:
-    name: tmpreaper
-    hour: "{{tmpreaper_cron_hour}}"
-    minute: "{{tmpreaper_cron_minute}}"
-    job: /usr/sbin/tmpreaper
-  notify:
-    - restart cron
